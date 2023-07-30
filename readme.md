@@ -1,5 +1,8 @@
 # Good software
-After spending many years as a developer, I think that good code repositories often share some common concepts.<br />
+After spending many years as a developer, I think that good code repositories often share some common practises.<br />
+Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Karenina_principle), when I work on a repository I do like, it tends to respect many of the listed practises.
+
+
 
 ## Testing
 |Concept| |
