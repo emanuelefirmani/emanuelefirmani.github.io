@@ -7,7 +7,7 @@ Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Kare
 ## Testing
 |Concept| |
 |-------|-|
-|Tests do not lie|I cannot change a test and it's still green|
+|Tests do not lie|A test cannot be changed and still be green|
 |TDD|Unit tests are written before implementation of code|
 |Minimality|Unit tests guide the minimal implementation of code|
 |Code coverage|Minimum 80%; recommended >90%|
@@ -17,15 +17,15 @@ Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Kare
 ## Versioning
 |Concept| |
 |-------|-|
-|VCS|Thou shall use git|
-|Commit message|The message describes the new feature, not the performed action[^message]|
-|Refactoring|When I refactor, my commits usually contain changes only to tests **or** code|
+|VCS|Thou shalt use Git|
+|Commit message|The message describes the new feature, not the performed action [^message]|
+|Refactoring|Refactoring commits usually contain changes **either** to tests **or** code|
 
 
 
 [^message]: Examples:
     |NOK|OK|
     |---|--|
-    |Added JobController|API expose GET /job|
-    |Deleted JobController|Cannot operate on Jobs over API|
-    |Registered JobController in IoC|IoC resolves JobController|
+    |Add JobController|API exposes GET /jobs|
+    |Delete JobController|Cannot operate on Jobs over API|
+    |Register JobController|IoC resolves JobController|
