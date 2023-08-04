@@ -20,6 +20,10 @@ Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Kare
 |VCS|Thou shalt use Git|
 |Commit message|The message describes the new feature, not the performed action [^message]|
 |Refactoring|Refactoring commits usually contain changes **either** to tests **or** code|
+|Frequency|Max 15 minutes between commits|
+|Size|Commits target few files, aside from automated refactoring|
+|Flow|Repo uses [GitHub flow](https://githubflow.github.io/) with rebase (no merge, no squash)|
+|Collaboration|Team prefers forks over branches|
 
 
 
