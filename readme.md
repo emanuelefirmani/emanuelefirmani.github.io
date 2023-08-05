@@ -26,6 +26,16 @@ Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Kare
 |Collaboration|Team prefers forks over branches|
 |Squash|Commits are not squashed|
 
+## Coding
+|Concept| |
+|-------|-|
+|[SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [IoC](https://en.wikipedia.org/wiki/Inversion_of_control)|Yeah, you already know|
+|Classes|Classes usually carry **either** data **or** behaviors|
+|Immutability|Data classes are immutable|
+|Unused code|Unused code or packages are never committed|
+
+
+
 
 
 [^message]: Examples:
