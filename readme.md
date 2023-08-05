@@ -31,6 +31,7 @@ Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Kare
 |-------|-|
 |[SOLID](https://en.wikipedia.org/wiki/SOLID), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [IoC](https://en.wikipedia.org/wiki/Inversion_of_control)|Yeah, you already know|
 |Classes|Classes usually carry **either** data **or** behaviors|
+|Data classes|Mappers between data classes are not members of the classes themselves|
 |Immutability|Data classes are immutable|
 |Unused code|Unused code or packages are never committed|
 
