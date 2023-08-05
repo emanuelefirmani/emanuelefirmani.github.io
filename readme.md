@@ -22,8 +22,9 @@ Similar to the [Anna Karenina principle](https://en.wikipedia.org/wiki/Anna_Kare
 |Refactoring|Refactoring commits usually contain changes to **either** tests **or** code|
 |Frequency|Max 15 minutes between commits|
 |Size|Commits target few files, aside from automated refactoring|
-|Flow|Repo uses [GitHub flow](https://githubflow.github.io/) with rebase (no merge, no squash)|
+|Flow|Repo uses [GitHub flow](https://githubflow.github.io/) with rebase (no merge)|
 |Collaboration|Team prefers forks over branches|
+|Squash|Commits are not squashed|
 
 
 
